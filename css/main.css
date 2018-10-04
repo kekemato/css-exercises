@@ -96,6 +96,7 @@ ol {
 
 li{
     font-size: 110%;
+    font-family: fantasy, 'Arial Narrow Bold'. serif;
 }
 
 ol li:nth-child(even){
