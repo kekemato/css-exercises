@@ -7,7 +7,7 @@
 
 *{
     margin: 0;
-    padding: 0;
+    color: black;
 }
 
 p span{
@@ -90,7 +90,7 @@ p span{
 
 ol {
     width: 25%;
-    margin-left: 25px;
+    margin-left: 5px;
 }
 
 ol li:nth-child(even){
