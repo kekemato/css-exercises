@@ -57,3 +57,17 @@ p span{
      margin-top: 3px;
  }
 
+ a[href^="https"]{
+     color: blue;
+ }
+
+ a[href$=".pdf"]{
+     color:red;
+ }
+
+ span[class~="cool"]{
+     font-weight: bold;
+ }
+
+
+
