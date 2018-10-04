@@ -42,6 +42,6 @@ p {
      font-size: 13px;
  }
 
- span{
+ span, h3{
      color: rgb(92, 14, 165) !important;
  }
