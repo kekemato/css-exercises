@@ -10,13 +10,9 @@
     padding: 0;
 }
 
-p {
+p span{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
- h1{
-     color: red;
- }
 
  a{
      color: blue;
@@ -42,10 +38,8 @@ p {
      font-size: 13px;
  }
 
- span, h3{
-     color: rgb(92, 14, 165) !important;
- }
 
- #spans span a{
+ #header > h1{
      color:red;
+     text-decoration: underline;
  }
