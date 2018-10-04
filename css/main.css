@@ -107,3 +107,11 @@ ol li:nth-child(odd){
  li:nth-of-type(2n + 1){
      border-bottom: dotted;
  }
+
+ li.ending{
+     text-decoration: underline;
+ }
+
+ p.ending{
+     color: red;
+ }
