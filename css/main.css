@@ -34,6 +34,10 @@ p span{
      padding: 1px;
  }
 
+ #spans{
+     margin-bottom: 5px;
+ }
+
  .test{
      font-size: 13px;
  }
@@ -43,3 +47,13 @@ p span{
      color:red;
      text-decoration: underline;
  }
+
+ #articles{
+     margin: 4px 2px;
+ }
+ #articles h3 + p{
+     font-weight: bold;
+     color: palevioletred;
+     margin-top: 3px;
+ }
+
