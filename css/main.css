@@ -78,10 +78,14 @@ p span{
      font-weight: bold;
  }
 
- #articles h3:first-child{
+ #articles h3:last-of-type{
      font-weight: bold;
      text-decoration: underline;
 
+ }
+
+ hr:first-of-type{
+     height: 2px;
  }
 
 
