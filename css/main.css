@@ -25,6 +25,11 @@ p span{
 
  a:hover{
      color: purple;
+     text-decoration: underline;
+ }
+
+ a:active{
+     color: green;
  }
 
  #header{
