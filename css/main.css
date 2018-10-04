@@ -88,5 +88,18 @@ p span{
      height: 2px;
  }
 
+ol {
+    width: 25%;
+    margin-left: 25px;
+}
 
+ol li:nth-child(even){
+    background-color:grey;
+}
 
+ol li:nth-child(odd){
+    background-color: royalblue
+}
+ ol li:first-child{
+     font-weight: bold;
+ }
