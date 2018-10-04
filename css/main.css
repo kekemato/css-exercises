@@ -41,3 +41,7 @@ p {
  .test{
      font-size: 13px;
  }
+
+ span{
+     color: blue;
+ }
