@@ -43,5 +43,11 @@ p {
  }
 
  span{
-     color: blue;
+     color: blueviolet;
  }
+
+ body{
+     text-decoration: underline;
+     text-decoration-color: chartreuse;
+ }
+
