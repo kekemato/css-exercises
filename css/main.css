@@ -41,10 +41,7 @@ p {
  .test{
      font-size: 13px;
  }
- #spans span{
-     color:red;
- }
- 
+
  span{
-     color: rgb(92, 14, 165);
+     color: rgb(92, 14, 165) !important;
  }
