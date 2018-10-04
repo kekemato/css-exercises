@@ -5,6 +5,11 @@
 *
 ******************************/
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -24,4 +29,11 @@ p {
 
  a:hover{
      color: purple;
+ }
+
+ #header{
+     background-color: cadetblue;
+     width: 100%;
+     margin: 0;
+     padding: 1px;
  }
