@@ -143,6 +143,6 @@ ol li:nth-child(odd){
  .box{
      border: 2px solid black;
      margin: 15px auto;
-     padding: 20px;
+     padding: 20px 10px 10px 5%;
      width: 50%;
  }
