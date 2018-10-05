@@ -35,7 +35,6 @@ p span{
  }
 
  #header{
-     background-color: rgb(70, 134, 136);
      width: 100%;
      margin: 0;
      padding: 1px;
@@ -189,10 +188,6 @@ ol li:nth-child(odd){
     display: inline-block;
 }
 
-#width-and-height-test{
-    background-color: aquamarine;
-}
-
 #width-and-height-test div:first-child{
     width: 300px;
     height: 50px;
@@ -224,8 +219,9 @@ ol li:nth-child(odd){
 }
 
 #background{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Black_star.png) no-repeat bottom right;
-    background-size: 50px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Black_star.png), url(https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: 50px, 100%;
+    background-position: bottom right, top left;
     background-attachment: fixed;
-    background-color: rgb(211, 230, 238);
+    background-repeat: no-repeat, round;
 }
