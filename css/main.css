@@ -26,6 +26,8 @@ p span{
  a:hover{
      color: purple;
      text-decoration: underline;
+     background-color: blanchedalmond; 
+     cursor: pointer;
  }
 
  a:active{
