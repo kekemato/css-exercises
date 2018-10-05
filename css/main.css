@@ -125,10 +125,12 @@ ol li:nth-child(odd){
 
  #spans span:nth-child(3){
      text-transform: capitalize;
+     color: #505507;
  }
 
  #spans span:nth-child(5){
      text-transform: uppercase;
+     color: rgb(133, 69, 223)
  }
 
  #spans span:last-of-type{
