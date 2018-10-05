@@ -140,8 +140,9 @@ ol li:nth-child(odd){
      text-transform: lowercase;
  }
 
- #box{
+ .box{
      border: 2px solid black;
-     margin: 15px;
+     margin: 15px auto;
      padding: 20px;
+     width: 50%;
  }
