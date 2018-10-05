@@ -139,3 +139,9 @@ ol li:nth-child(odd){
  #spans span:last-of-type{
      text-transform: lowercase;
  }
+
+ #box{
+     border: 2px solid black;
+     margin: 15px;
+     padding: 20px;
+ }
