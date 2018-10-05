@@ -222,3 +222,11 @@ ol li:nth-child(odd){
     border: 1px solid black;
     border-radius: 100px;
 }
+
+#background{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Black_star.png);
+    background-size: 50px;
+    background-position: bottom right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
