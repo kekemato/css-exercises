@@ -204,6 +204,7 @@ ol li:nth-child(odd){
     margin:5px;
     border: 1px solid black;
     border-radius: 10px 30px;
+    opacity: 0.9;
 }
 
 .inline-div{
@@ -211,7 +212,7 @@ ol li:nth-child(odd){
     width: 200px;
     height: 110px;
     text-align: center;
-    background-color: rgb(201, 99, 99);
+    background-color: rgba(201, 99, 99, 0.5);
     margin:5px;
     padding-top: 90px;
     border: 1px solid black;
