@@ -47,6 +47,9 @@ p span{
 
  #spans{
      margin-bottom: 5px;
+     letter-spacing: 1px;
+     word-spacing: 5px;
+     line-height: 20px;
  }
 
  .test{
@@ -61,6 +64,9 @@ p span{
 
  #articles{
      margin: 4px 2px;
+     letter-spacing: 0.1em;
+     word-spacing: 0.2em;
+     line-height: 1.2em;
  }
  #articles h3 + p{
      font-weight: bold;
