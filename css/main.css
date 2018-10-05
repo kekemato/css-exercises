@@ -199,6 +199,7 @@ ol li:nth-child(odd){
     background-color:gray;
     margin: 5px;
     border: 1px solid black;
+    border-radius: 15px;
 }
 
 #width-and-height-test div:nth-child(2){
@@ -207,11 +208,17 @@ ol li:nth-child(odd){
     background-color:gray;
     margin:5px;
     border: 1px solid black;
+    border-radius: 10px 30px;
 }
 
 .inline-div{
     display:inline-block;
+    width: 200px;
+    height: 110px;
+    text-align: center;
     background-color: rgb(201, 99, 99);
     margin:5px;
+    padding-top: 90px;
     border: 1px solid black;
+    border-radius: 100px;
 }
