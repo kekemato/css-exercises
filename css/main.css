@@ -224,9 +224,8 @@ ol li:nth-child(odd){
 }
 
 #background{
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Black_star.png);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Black_star.png) no-repeat bottom right;
     background-size: 50px;
-    background-position: bottom right;
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-color: rgb(211, 230, 238);
 }
