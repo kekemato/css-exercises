@@ -180,3 +180,11 @@ ol li:nth-child(odd){
  .groove{
     border: 20px groove blue;  
 }
+
+.block-test{
+    margin:10px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: grey;
+    display: inline-block;
+}
