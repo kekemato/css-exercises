@@ -142,11 +142,39 @@ ol li:nth-child(odd){
 
  .box{
      border: 2px solid black;
-     margin-top: 15px;
-     margin-bottom: 15px;
-     margin-left: auto;
-     margin-right: auto;
-     padding: 20px;
-     padding-bottom: 10px;
+     margin: 15px;
+     padding: 5px;
      width: 50%;
  }
+
+ .solid{
+     border: 1px solid black;
+ }
+
+ .dashed{
+     border: 2px dashed black;
+ }
+
+ .dotted{
+     border: 2px dotted black;
+ }
+
+ .double{
+     border: 6px double black;
+ }
+
+ .inset{
+    border: 20px inset blue;
+ }
+
+ .outset{
+    border: 20px outset blue;
+ }
+
+ .ridge{
+    border: 20px ridge blue;
+ }
+
+ .groove{
+    border: 20px groove blue;  
+}
