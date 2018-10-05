@@ -24,14 +24,14 @@ p span{
  }
 
  a:hover{
-     color: purple;
+     color: #5e0959;
      text-decoration: underline;
      background-color: blanchedalmond; 
      cursor: pointer;
  }
 
  a:active{
-     color: green;
+     color:rgb(62, 175, 87);
  }
 
  #header{
