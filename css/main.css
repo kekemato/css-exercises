@@ -144,7 +144,9 @@ ol li:nth-child(odd){
      border: 2px solid black;
      margin: 15px;
      padding: 5px;
-     width: 50%;
+     width: 10%;
+     text-align: center;
+     float: left;
  }
 
  .solid{
