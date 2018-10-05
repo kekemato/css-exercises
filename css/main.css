@@ -96,7 +96,7 @@ ol {
 
 li{
     font-size: 110%;
-    font-family: fantasy, 'Arial Narrow Bold'. serif;
+    font-family: fantasy, 'Arial Narrow Bold', serif;
 }
 
 ol li:nth-child(even){
@@ -121,4 +121,16 @@ ol li:nth-child(odd){
  p.ending{
      color: red;
      text-decoration: overline;
+ }
+
+ #spans span:nth-child(3){
+     text-transform: capitalize;
+ }
+
+ #spans span:nth-child(5){
+     text-transform: uppercase;
+ }
+
+ #spans span:last-of-type{
+     text-transform: lowercase;
  }
